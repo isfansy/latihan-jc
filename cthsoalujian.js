@@ -10,3 +10,5 @@ const repeat=(a=['z','b','a','a','d'])=>{
     }
 }
 console.log(repeat())
+
+console.log('jancukkk ')
